@@ -1,11 +1,10 @@
 import mysql.connector
 # mysql connection 
-# mysql module for connect with mysql database
 connection = mysql.connector.connect(
     host="bannerbuzz246-db-1",
     user="root",
     password="root123",
-    database="election"
+    database="my-salon"
 )
 # cursor for query with database
 cursor = connection.cursor()
