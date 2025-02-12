@@ -1,0 +1,40 @@
+
+
+Program:
+Send a load offer to customer who's birthday is tomorrow.
+customersList = {
+    1 : { 
+         "name" : "Shiv",
+         "dob"  : "09/02/1988
+        },
+    2 : { 
+         "name" : "Rajesh",
+         "dob"  : "09/02/1994
+        },
+    3 : { 
+         "name" : "Ramesh",
+         "dob"  : "09/02/1993
+        }
+        
+}
+
+
+
+print("
+Hello Santosh! 
+
+Your are my valuable customer so i am offering to you a loan at interest rate 5% upto 10Lacs. 
+
+For more detais contact us.
+
+Thanks You
+Bank Manager
+Branch Gurugram
+"
+
+
+week 53 
+months 12
+day : 365
+days : sun, 
+
